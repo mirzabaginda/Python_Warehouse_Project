@@ -238,6 +238,4 @@ def gudang():
             keluarGudang()
         else:
             print('Pilihan yang anda masukkan salah. Pilih [1-5]')
-
-
 gudang()
